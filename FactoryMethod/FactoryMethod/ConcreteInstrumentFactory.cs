@@ -11,6 +11,8 @@ namespace FactoryMethod
                     return new Guitar();
                 case "Piano":
                     return new Piano();
+                case "Bass":
+                    return new Bass();
                 default:
                     throw new Exception(string.Format("Instrument '{0}' does not exist", Instrument));
             }

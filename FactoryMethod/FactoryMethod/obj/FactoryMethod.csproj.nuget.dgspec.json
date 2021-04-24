@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {}
+    "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {}
   },
   "projects": {
-    "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {
+    "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+        "projectUniqueName": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+        "projectPath": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
         "packagesPath": "/Users/ricky/.nuget/packages/",
-        "outputPath": "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/",
+        "outputPath": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

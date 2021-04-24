@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LJR3c0XkVehEPC8pbvKNEMOvBbBA4Qto+WPdVrYVRlU42midwna8i5rjEJ3y0waRAWzN4BP8HjS4JCQ7POTJzA==",
+  "dgSpecHash": "+nK2UqQnEqHIwWvsvF6hsVTlwOxFoMOq15JhxUkp+Oy1ca3xcEcwLl3HrcbUFa60JDXzu66C44oav3kQwvMziw==",
   "success": true,
-  "projectFilePath": "/Users/ricky/Desktop/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
+  "projectFilePath": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronCreacional/FactoryMethod/FactoryMethod/FactoryMethod.csproj",
   "expectedPackageFiles": [
     "/Users/ricky/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
   ],
