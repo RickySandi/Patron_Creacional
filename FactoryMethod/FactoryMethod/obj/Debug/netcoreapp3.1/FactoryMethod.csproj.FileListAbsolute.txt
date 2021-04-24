@@ -1,0 +1,12 @@
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csprojAssemblyReference.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/ricky/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
