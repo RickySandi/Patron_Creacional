@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{FD6CBE6E-992E-4C6A-9ED4-B34AB86204AD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/Program.cs">
     <Files>
-      <File FileName="FactoryMethod/Program.cs" Line="13" Column="28" />
+      <File FileName="FactoryMethod/Program.cs" Line="15" Column="47" />
       <File FileName="FactoryMethod/IntrumentFactory.cs" Line="6" Column="70" />
       <File FileName="FactoryMethod/IInstrument.cs" Line="7" Column="28" />
       <File FileName="FactoryMethod/Guitar.cs" Line="7" Column="84" />
